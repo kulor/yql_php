@@ -1,0 +1,54 @@
+8
+
+dir
+1603
+http://dev.ellislab.com/svn/CodeIgniter/trunk/user_guide/doc_style
+http://dev.ellislab.com/svn/CodeIgniter
+
+
+
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c56aefdc-da1b-0410-bd20-cc00d14d2810
+
+index.html
+file
+
+
+
+
+2009-02-03T18:58:28.000000Z
+d6419667eef2be58c7ea1cc9d027b314
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+template.html
+file
+
+
+
+
+2009-02-03T18:58:28.000000Z
+8e02257cccde93cddf139ccfa3b3c291
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+

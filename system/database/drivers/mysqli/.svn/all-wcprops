@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CodeIgniter/!svn/ver/1603/trunk/system/database/drivers/mysqli
+END
+mysqli_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CodeIgniter/!svn/ver/1603/trunk/system/database/drivers/mysqli/mysqli_driver.php
+END
+mysqli_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/mysqli/mysqli_result.php
+END
+mysqli_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/mysqli/mysqli_forge.php
+END
+mysqli_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/mysqli/mysqli_utility.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/mysqli/index.html
+END

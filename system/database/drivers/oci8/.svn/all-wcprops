@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CodeIgniter/!svn/ver/1603/trunk/system/database/drivers/oci8
+END
+oci8_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CodeIgniter/!svn/ver/1603/trunk/system/database/drivers/oci8/oci8_driver.php
+END
+oci8_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/oci8/oci8_result.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/oci8/index.html
+END
+oci8_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/oci8/oci8_forge.php
+END
+oci8_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/database/drivers/oci8/oci8_utility.php
+END

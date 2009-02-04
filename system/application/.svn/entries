@@ -1,0 +1,68 @@
+8
+
+dir
+1603
+http://dev.ellislab.com/svn/CodeIgniter/trunk/system/application
+http://dev.ellislab.com/svn/CodeIgniter
+
+
+
+2009-01-16T14:52:12.643464Z
+1598
+derekallard
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c56aefdc-da1b-0410-bd20-cc00d14d2810
+
+helpers
+dir
+
+hooks
+dir
+
+language
+dir
+
+models
+dir
+
+config
+dir
+
+controllers
+dir
+
+index.html
+file
+
+
+
+
+2009-02-03T18:58:26.000000Z
+0227cfd904e99656279202032b98d4a7
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+errors
+dir
+
+libraries
+dir
+
+views
+dir
+

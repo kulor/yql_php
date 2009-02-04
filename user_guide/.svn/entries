@@ -1,0 +1,120 @@
+8
+
+dir
+1603
+http://dev.ellislab.com/svn/CodeIgniter/trunk/user_guide
+http://dev.ellislab.com/svn/CodeIgniter
+
+
+
+2009-02-03T16:13:57.246200Z
+1603
+derekallard
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c56aefdc-da1b-0410-bd20-cc00d14d2810
+
+installation
+dir
+
+helpers
+dir
+
+userguide.css
+file
+
+
+
+
+2009-02-03T18:58:30.000000Z
+feb5fa72f9e22c44d2699df58591176f
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+database
+dir
+
+nav
+dir
+
+doc_style
+dir
+
+images
+dir
+
+license.html
+file
+
+
+
+
+2009-02-03T18:58:30.000000Z
+70f4f4e3e6af11c0ccacd95cea45da7c
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+overview
+dir
+
+toc.html
+file
+
+
+
+
+2009-02-03T18:58:30.000000Z
+0ea0a3dfed4de317cc9537980eb081e0
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+changelog.html
+file
+
+
+
+
+2009-02-03T18:58:30.000000Z
+b612c3aaae1e693515f4593da65b5e8e
+2009-02-03T16:13:57.246200Z
+1603
+derekallard
+has-props
+
+index.html
+file
+
+
+
+
+2009-02-03T18:58:30.000000Z
+cf364db1defd042189fe403f0d784e4a
+2008-11-13T22:59:24.698727Z
+1572
+derekallard
+has-props
+
+libraries
+dir
+
+general
+dir
+

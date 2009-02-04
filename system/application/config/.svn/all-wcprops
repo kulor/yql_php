@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CodeIgniter/!svn/ver/1598/trunk/system/application/config
+END
+doctypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/doctypes.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CodeIgniter/!svn/ver/1598/trunk/system/application/config/mimes.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/constants.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/user_agents.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/routes.php
+END
+hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/hooks.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/database.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/index.html
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/config.php
+END
+smileys.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/smileys.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CodeIgniter/!svn/ver/1572/trunk/system/application/config/autoload.php
+END
